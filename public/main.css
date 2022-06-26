@@ -1,0 +1,147 @@
+.navbar-nav{
+    margin-left: 75%;
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: black;
+}
+
+
+.about-all{
+    display: flex;
+    margin: 100px;
+}
+    
+.about-img{
+    height: 500px;
+}
+.about-wax{
+  padding: 100px;
+  background-color: whitesmoke;
+
+}
+
+.navbar-brand{
+    font-size:xx-large ;
+    font-family:'Times New Roman', Times, serif;
+    position: sticky;
+}
+
+.A{
+    display: block;
+}
+.AA{
+    display: flex;
+    justify-content: space-between;
+}
+.AA a{
+    color: whitesmoke;
+}
+div a{
+    text-decoration: none;
+}
+.footer{
+    background: url(/footer-bg.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 60px;
+}
+.package-img{
+    display: flex;
+}
+.package-header{
+    background-image: url(/header-bg-2.png);
+    background-size: cover !important;
+    background-position: center !important;
+    padding: 80px;
+}
+.img-package{
+    height: 250px;
+}
+.package-max{
+    padding: 25px;
+}
+.package{
+    text-align: center;
+    background-color: whitesmoke;
+    
+}
+.package-Rara{
+    margin: 70px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: blueviolet;
+}
+.pack-max{
+    display: flex;
+    
+}
+.discount{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 60px;
+}
+h3{
+    color: white;
+}
+ckage-header{
+    background-image: url(/header-bg-2.png);
+    background-repeat: no-repeat;
+    padding: 100px;
+}
+.package-li{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+.pack-img{
+    height:400px;
+}
+
+
+.book-header{
+    background-size: cover !important;
+    background-position: center !important;
+    padding: 70px;
+    background-image: url(/header-bg-3.png) ;
+}
+
+.book-header h1{
+    font-size: 5rem;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    
+}
+.input{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: whitesmoke;
+    align-content: center;
+
+}
+
+
+form input, form textarea{
+    width: 200%;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 12px 0;
+    
+}
+.About-sec{
+    background-image: url(/header-bg-1.png);
+    background-size: cover !important;
+    background-position: center !important;
+    padding: 70px;
+
+}
